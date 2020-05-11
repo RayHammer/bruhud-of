@@ -5,7 +5,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"HudPlayerHealth"
-		"xpos"			"c-270"
+		"xpos"			"c-280"
 		"ypos"			"c65"
 		"zpos"			"2"
 		"wide"			"180"
@@ -32,8 +32,7 @@
 		"scaleImage"	"1"	
 	}
 	
-	// The health cross. Completely removed
-	// ..lmao jk, it's blinking upon overheal - R
+	// Hides the health cross
 	"PlayerStatusHealthImageBG"
 	{
 		"ControlName"	"ImagePanel"
@@ -81,7 +80,7 @@
 		"xpos"			"80"
 		"ypos"			"20"
 		"zpos"			"5"
-		"wide"			"100"
+		"wide"			"120"
 		"tall"			"50"
 		"visible"		"1"
 		"enabled"		"1"
@@ -99,7 +98,7 @@
 		"xpos"			"-2"
 		"ypos"			"-2"
 		"zpos"			"5"
-		"wide"			"100"
+		"wide"			"120"
 		"tall"			"42"
 		"visible"		"1"
 		"enabled"		"1"

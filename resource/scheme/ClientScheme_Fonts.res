@@ -32,6 +32,18 @@ Scheme
 			}
 		}
 		
+		"C_HudMedium"
+		{
+			"1"
+			{
+				"name"		"TF2 Build"
+				"tall"		"24"
+				"weight"	"0"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+		
 		// Default
 		"Default"
 		{
