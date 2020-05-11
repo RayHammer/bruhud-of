@@ -3,6 +3,12 @@ Scheme
 	//////////////////////// COLORS ///////////////////////////
 	Colors
 	{
+		// HUD Custom Colors
+		"Overheal"					"170 170 255 255"
+		"Critical"					"255 85 85 255"
+		
+		// === 
+		
 		// base colors
 		"Orange"			"178 82 22 255"
 		"OrangeDim"			"178 82 22 120"
