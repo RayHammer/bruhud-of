@@ -44,6 +44,30 @@ Scheme
 			}
 		}
 		
+		"C_HudMediumSmall"
+		{
+			"1"
+			{
+				"name"		"TF2 Build"
+				"tall"		"18"
+				"weight"	"0"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+		
+		"C_HudSmall"
+		{
+			"1"
+			{
+				"name"		"TF2 Build"
+				"tall"		"12"
+				"weight"	"0"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+		
 		// Default
 		"Default"
 		{
