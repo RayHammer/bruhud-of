@@ -24,21 +24,8 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"ChargeLabel"
-		"xpos"			"30"
-		"ypos"			"24"
-		"zpos"			"2"
-		"wide"			"90"
-		"tall"			"15"
-		"autoResize"	"1"
-		"pinCorner"		"2"
 		"visible"		"0"
 		"enabled"		"0"
-		"tabPosition"	"0"
-		"labelText"		"#TF_Weapon_LightningGun"
-		"textAlignment"	"west"
-		"dulltext"		"0"
-		"brighttext"	"0"
-		"font"			"HudFontSmall"
 	}
 	
 	// Removes images
