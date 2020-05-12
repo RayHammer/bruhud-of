@@ -54,14 +54,7 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"HealthClusterIcon"
-		"xpos"			"2"
-		"ypos"			"17"
-		"wide"			"36"
-		"tall"			"36"
-		"visible"		"1"
-		"visible_minmode"		"0"
-		"enabled"		"1"
-		"image"			"../hud/ico_health_cluster"
-		"scaleImage"	"1"	
+		"visible"		"0"
+		"enabled"		"0"	
 	}		
 }
