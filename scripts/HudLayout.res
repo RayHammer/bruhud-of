@@ -95,7 +95,7 @@
 		"xpos"			"c-50"
 		"ypos"			"c30"
 		"wide"			"100"
-		"tall"			"50"
+		"tall"			"60"
 	}
 	
 	HudDemomanCharge
